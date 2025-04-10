@@ -37,7 +37,7 @@ export const Hero = () => {
             >
                 <div className="z-10 flex flex-col items-center">
                     
-                    <h1 className="text-white/40 text-5xl md:text-7xl font-black">Hi, I'm</h1>
+                    <h1 className="text-white/40 text-5xl md:text-7xl font-black">Hi, I&apos;m</h1>
                     <h1 className="max-w-3x1 bg-gradient-to-br from-white to-gray-400 bg-clip-text font-black leading-tight 
                     text-transparent text-5xl md:text-7xl">
                         Armaan Jaganath
